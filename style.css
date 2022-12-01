@@ -569,6 +569,10 @@ p {
     padding-bottom: 10px;
 }
 
+#footer .brand h1 a {
+    color: white;
+}
+
 #footer h2 {
     color: white;
     font-weight: 500;
@@ -600,6 +604,7 @@ p {
 
 #footer p {
     font-size: 1.3rem;
+    color: white;
 }
 
 /* end footer section */
